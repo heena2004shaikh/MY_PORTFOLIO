@@ -4,19 +4,19 @@ import { Github, Eye } from "lucide-react";
 const projects = [
   {
     title: "Fresh Cart",
-    image: "/public/Freshcart.png",
+    image: "/Freshcart.png",
     github: "https://github.com/heena2004shaikh/Fresh-Crat",
     live: "https://heena2004shaikh.github.io/Fresh-Crat/",
   },
   {
     title: "Seven Mentor Clone",
-    image: "/public/sevenmentor.png",
+    image: "/sevenmentor.png",
     github: "https://github.com/heena2004shaikh/SevenMentor",
     live: "https://heena2004shaikh.github.io/SevenMentor/",
   },
   {
     title: "Hammer Website",
-    image: "/public/zoombiz.png",
+    image: "/zoombiz.png",
     github: "https://github.com/heena2004shaikh/ZoomBizz",
     live: "https://heena2004shaikh.github.io/ZoomBizz/",
   },
@@ -29,13 +29,13 @@ const projects = [
   },
   {
     title: "Burhanpur Website",
-    image: "/public/burhanpur.png",
+    image: "/burhanpur.png",
     github: "https://github.com/heena2004shaikh/Fresh-Crat",
     live: "https://burhanpur-city-web-mu.vercel.app/",
   },
   {
     title: "Creative Dotcom",
-    image: "/public/dom.png",
+    image: "/dom.png",
     github: "https://github.com/heena2004shaikh/CreativeDotcom",
     live: "https://heena2004shaikh.github.io/CreativeDotcom/",
   },

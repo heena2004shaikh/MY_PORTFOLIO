@@ -79,7 +79,7 @@ const Herosection = () => {
                 {/* Main Image */}
                 <div className="relative bg-[#2a7575] dark:bg-slate-800 rounded-4xl p-5 shadow-2xl">
                   <img
-                    src="/public/white image.jpg"
+                    src="/white image.jpg"
                     alt="React Developer - Heena Shaikh"
                     className="w-full h-90 object-cover rounded-4xl"
                   />
