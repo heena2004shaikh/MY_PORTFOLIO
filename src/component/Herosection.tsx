@@ -1,4 +1,3 @@
-import React from "react";
 import { FileText, Briefcase } from "lucide-react";
 import { Typewriter } from "react-simple-typewriter";
 

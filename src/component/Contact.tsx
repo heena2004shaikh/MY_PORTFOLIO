@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import { motion } from "framer-motion";
 import emailjs from "emailjs-com"; // <-- new import
 import { Mail, MapPin, Phone } from "lucide-react";
